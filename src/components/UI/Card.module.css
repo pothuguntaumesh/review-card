@@ -1,0 +1,22 @@
+.card{
+    width: 30%;
+    background: hsl(213, 19%, 18%);
+    border-radius: 1.5rem;
+    padding:2rem 2.2rem 2rem 2.2rem;
+    color:hsl(217, 12%, 63%);
+}
+
+.color-white{
+    color: white;
+}
+@media(max-width:600px){
+    .card{
+        width: 80%;
+    }
+}
+
+@media(max-width:400px){
+    .card{
+        width: 90%;
+    }
+}

@@ -1,0 +1,17 @@
+.btn{
+    margin-top: 1.8rem;
+    border-radius: 1.5rem;
+    background-color: hsl(25, 97%, 53%);
+    padding:1rem;
+    margin-bottom: 1.8rem;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    letter-spacing: .2rem;
+    font-size: 15px;
+}
+.btn:hover{
+    background-color: white;
+    color: hsl(25, 97%, 53%);
+    cursor: pointer;
+}

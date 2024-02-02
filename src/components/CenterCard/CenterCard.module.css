@@ -1,0 +1,12 @@
+.white-text{
+    font-family: 'Overpass', sans-serif;
+    color: white;
+    font-weight: 400;
+    margin-top:1.6rem;
+}
+.paragraph{
+    color: hsl(223, 15%, 54%);
+    font-size: medium;
+    line-height: 1.5rem;
+    margin-top: 1rem;
+}

@@ -1,0 +1,10 @@
+.background{
+    padding:.2rem 0rem;
+    margin:1.2rem auto;
+    background:hsl(216, 12%, 23%);
+    width: 50%;
+    border-radius: 1.5rem;
+    color: hsl(25, 97%, 53%);
+    font-weight: 300;
+
+}

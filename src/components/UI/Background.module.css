@@ -1,0 +1,7 @@
+.background{
+    height: 100vh;
+    background: hsl(216, 12%, 8%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
